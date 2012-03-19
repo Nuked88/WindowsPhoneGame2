@@ -1,0 +1,26 @@
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\Maps\Map01.xnb
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\TileSheets\Background01.xnb
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\TileSheets\Background02.xnb
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\TileSheets\Background03.xnb
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\TileSheets\TileSheet01.xnb
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\WindowsPhoneGame2.dll
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\WindowsPhoneGame2.pdb
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\xTile.dll
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\xTile.xml
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\WindowsPhoneGame2.dll
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\WindowsPhoneGame2.pdb
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\WindowsPhoneGame2.xap
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\XapCacheFile.xml
+c:\users\manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\npc1.xnb
+C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\WindowsPhoneGame2.xap
+C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

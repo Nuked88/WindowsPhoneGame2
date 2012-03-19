@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Maps\Map01.tbin</Source>
+      <Name>Maps\Map01</Name>
+      <Importer>TideImporter</Importer>
+      <Processor>TideProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\Maps\Map01.xnb</Output>
+      <Time>2012-03-18T16:48:29.4888536+01:00</Time>
+      <Dependency>
+        <Key>TileSheets\Background01.png</Key>
+        <Value>2012-03-18T13:47:01.6739927+01:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>TileSheets\Background02.png</Key>
+        <Value>2012-03-18T13:08:32.297904+01:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>TileSheets\Background03.png</Key>
+        <Value>2012-03-18T13:08:32.3079045+01:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>TileSheets\TileSheet01.png</Key>
+        <Value>2012-03-18T13:08:32.316905+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\TileSheets\Background01.xnb</Request>
+      <Request>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\TileSheets\Background02.xnb</Request>
+      <Request>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\TileSheets\Background03.xnb</Request>
+      <Request>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\TileSheets\TileSheet01.xnb</Request>
+    </Item>
+    <Item>
+      <Source>npc1.png</Source>
+      <Name>npc1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\npc1.xnb</Output>
+      <Time>2012-03-18T14:47:02.53195+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSheets\Background01.png</Source>
+      <Name>TileSheets\Background01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\TileSheets\Background01.xnb</Output>
+      <Time>2012-03-18T13:47:01.6739927+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSheets\Background02.png</Source>
+      <Name>TileSheets\Background02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\TileSheets\Background02.xnb</Output>
+      <Time>2012-03-18T13:08:32.297904+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSheets\Background03.png</Source>
+      <Name>TileSheets\Background03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\TileSheets\Background03.xnb</Output>
+      <Time>2012-03-18T13:08:32.3079045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSheets\TileSheet01.png</Source>
+      <Name>TileSheets\TileSheet01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\TileSheets\TileSheet01.xnb</Output>
+      <Time>2012-03-18T13:08:32.316905+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A0A8D9A1-948B-4D9D-BBB2-F8D1B521124D}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Manuel\documents\visual studio 2010\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Manuel\documents\visual studio 2010\Projects\Farseer Physics Tutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\xTile\xTile.Pipeline.dll</Key>
+        <Value>2012-03-18T12:54:02.77317+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-11-09T22:19:34.1747889+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
